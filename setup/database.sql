@@ -1,3 +1,5 @@
+-- Tables added to databse called social
+
 CREATE TABLE Users (
     ID int NOT NULL AUTO_INCREMENT,
     name VARCHAR(100) NOT NULL,
